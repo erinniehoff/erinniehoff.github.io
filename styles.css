@@ -1,0 +1,12 @@
+body { font-family: 'Open Sans', sans-serif; }
+body { background: lightcyan;
+    color: darkslateblue;
+    font-size: 14pt; }
+.picture { float: right }
+div {
+    width: 400px;
+    margin: auto;
+}
+.article { clear: all }
+p.groove {border-style: groove;
+    border-radius: 10px;}
